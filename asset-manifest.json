@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Kesing_Huang_React/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Kesing_Huang_React/static/js/main.aa9e1358.chunk.js",
+    "main.js.map": "/Kesing_Huang_React/static/js/main.aa9e1358.chunk.js.map",
+    "runtime-main.js": "/Kesing_Huang_React/static/js/runtime-main.d256e96b.js",
+    "runtime-main.js.map": "/Kesing_Huang_React/static/js/runtime-main.d256e96b.js.map",
+    "static/js/2.ff1e6feb.chunk.js": "/Kesing_Huang_React/static/js/2.ff1e6feb.chunk.js",
+    "static/js/2.ff1e6feb.chunk.js.map": "/Kesing_Huang_React/static/js/2.ff1e6feb.chunk.js.map",
+    "index.html": "/Kesing_Huang_React/index.html",
+    "precache-manifest.609d98c72dca9202d1993e48307069a3.js": "/Kesing_Huang_React/precache-manifest.609d98c72dca9202d1993e48307069a3.js",
+    "service-worker.js": "/Kesing_Huang_React/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Kesing_Huang_React/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ff1e6feb.chunk.js.LICENSE.txt": "/Kesing_Huang_React/static/js/2.ff1e6feb.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Kesing_Huang_React/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d256e96b.js",
+    "static/js/2.ff1e6feb.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.aa9e1358.chunk.js"
+  ]
+}
