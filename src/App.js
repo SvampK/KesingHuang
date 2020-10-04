@@ -1,20 +1,17 @@
-import React from 'react';
-import './App.css';
-// import background from './images/Rectangle.png';
+import React from "react";
+import "./App.css";
+import Button from "./Button";
 
 function App() {
   return (
     <div className="app">
-      
       <h1 className="title">KesingHuang</h1>
-     <p className="intro">
-     I am a frontend developer who has an eye on design and UX.
-     </p>
-      <div className="polygon">
+      <div className="polygon"></div>
+      <p className="intro">
+        I am a frontend developer who has an eye on design and UX.
+      </p>
 
-      </div>  
-      
-      
+      <Button />
     </div>
   );
 }
