@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1250f590ce6266f515253db2a17f99f7",
+    "revision": "5d648b21b3134f32a44f89dff79bf325",
     "url": "/Kesing_Huang_React/index.html"
   },
   {
-    "revision": "a3fc8427307602f959e8",
-    "url": "/Kesing_Huang_React/static/css/main.dd1f4cbb.chunk.css"
+    "revision": "12ecae7eb26682c68f60",
+    "url": "/Kesing_Huang_React/static/css/main.a1c065d5.chunk.css"
   },
   {
     "revision": "f3bdcc7d186a0a15a056",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Kesing_Huang_React/static/js/2.b35437f4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a3fc8427307602f959e8",
-    "url": "/Kesing_Huang_React/static/js/main.f11f51d8.chunk.js"
+    "revision": "12ecae7eb26682c68f60",
+    "url": "/Kesing_Huang_React/static/js/main.5523154c.chunk.js"
   },
   {
     "revision": "49706cfb7b6728ea009b",
