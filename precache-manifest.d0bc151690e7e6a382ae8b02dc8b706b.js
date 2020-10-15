@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8c273d4f9082fe97ddf0820566a02ed7",
+    "revision": "1250f590ce6266f515253db2a17f99f7",
     "url": "/Kesing_Huang_React/index.html"
   },
   {
-    "revision": "4c6817a419fe4b071414",
-    "url": "/Kesing_Huang_React/static/css/main.117197ab.chunk.css"
+    "revision": "a3fc8427307602f959e8",
+    "url": "/Kesing_Huang_React/static/css/main.dd1f4cbb.chunk.css"
   },
   {
-    "revision": "68ab4b4c1b63e88b03a0",
-    "url": "/Kesing_Huang_React/static/js/2.a2b13b81.chunk.js"
+    "revision": "f3bdcc7d186a0a15a056",
+    "url": "/Kesing_Huang_React/static/js/2.b35437f4.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/Kesing_Huang_React/static/js/2.a2b13b81.chunk.js.LICENSE.txt"
+    "url": "/Kesing_Huang_React/static/js/2.b35437f4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4c6817a419fe4b071414",
-    "url": "/Kesing_Huang_React/static/js/main.eeaef990.chunk.js"
+    "revision": "a3fc8427307602f959e8",
+    "url": "/Kesing_Huang_React/static/js/main.f11f51d8.chunk.js"
   },
   {
     "revision": "49706cfb7b6728ea009b",
