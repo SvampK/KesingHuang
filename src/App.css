@@ -31,6 +31,13 @@ body {
   text-decoration-line: underline;
   color: rgba(255, 255, 255, 0.6);
 }
+.temperate {
+  width: 15em;
+  color: #ffffff;
+  margin: 0 auto;
+  padding-top: 1em;
+  font-size: large;
+}
 .intro {
   position: relative;
   top: 5em;
