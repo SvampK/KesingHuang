@@ -1,3 +1,10 @@
+
+
+""Welcome to my portfolio site, it is still under construction :)"" 
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
